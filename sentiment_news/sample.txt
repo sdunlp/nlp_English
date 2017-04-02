@@ -1,0 +1,42 @@
+{
+    "n1.txt": {
+        "code": 0,
+        "sentiment": 0.564757764339447,
+        "title": "Middle age Health Crisis Warning\n",
+        "abstract": "We are living longer, but are in poorer health because we store up problems as we age. Health officials say the \"sandwich generation\" of people caring for children and ageing parents do not take enough time to look after themselves. Middle-aged people in England face a health crisis because of unhealthy lifestyles, experts have warned. \"This is about making small changes that can have this really big improvement for your long-term health,\" she added. Desk jobs, fast food and the daily grind are taking their toll, says Public Health England. ",
+        "time": "2017-03-23\n",
+        "keywords": {
+            "lee": 1.0080536912751679,
+            "help": 1.0060402684563758,
+            "quiz": 1.0100671140939597,
+            "say": 1.0080536912751679,
+            "health": 1.0140939597315437,
+            "exercise": 1.0060402684563758,
+            "prof": 1.0060402684563758,
+            "actually": 1.0060402684563758,
+            "risk": 1.0060402684563758,
+            "henderson": 1.0080536912751679
+        },
+        "message": "success"
+    },
+    "n2.txt": {
+        "code": 0,
+        "sentiment": 0.7386659979820251,
+        "title": "Impact crater linked to Martian tsunamis\n",
+        "abstract": "Scientists have located an impact crater linked to powerful tsunamis that swept across part of ancient Mars. While a few other teams have reported evidence of tsunamis on Mars, no one up until now has linked the events to particular impact crater. After just a few hours, that tsunami wave reached the palaeo-shoreline located at a few hundred km from the impact crater.\" Two waves\rThe researchers have identified what they think is the best candidate for the impact crater, a 120km-wide bowl called Lomonosov, after the 18th Century Russian polymath Mikhail Vasilyevich Lomonosov. Lomonosov crater in the planet's northern plains fits the bill as the source of tsunami deposits identified on the surface. ",
+        "time": "26 March 2017\n",
+        "keywords": {
+            "impact": 1.0107296137339057,
+            "evidence": 1.0107296137339057,
+            "northern": 1.0171673819742488,
+            "wave": 1.0107296137339057,
+            "waves": 1.0107296137339057,
+            "deposits": 1.0085836909871244,
+            "ocean": 1.0128755364806867,
+            "tsunami": 1.0214592274678111,
+            "mars": 1.0107296137339057,
+            "crater": 1.0128755364806867
+        },
+        "message": "success"
+    }
+}
