@@ -1,0 +1,42 @@
+{
+    "n1.txt": {
+        "code": 0,
+        "sentiment": 0.665722668170929,
+        "title": "Middle age Health Crisis Warning\n",
+        "abstract": "When arriving at King's Cross Harry soon realises that there is no platform 9 and 3/4, or at least that is visible. My favourite series and possible favourite book of all time are the Harry Potter series by J.K. Rowling. Hagrid also tells Harry how he came to live at Privet Drive as his parents were murdered by the Dark Lord, Lord Voldemort. The first book is Harry Potter and the Philosopher's Stone. The story starts with Number 4 Privet Drive about a boy called Harry Potter who lives in the cupboard under the stairs of a house owned by Mr and Mrs Dursley with their overly spoiled son called Dudley. ",
+        "time": "2017-03-23\n",
+        "keywords": {
+            "hagrid": 1.0096774193548388,
+            "letters": 1.0129032258064516,
+            "ron": 1.0064516129032257,
+            "potter": 1.0129032258064516,
+            "soon": 1.0064516129032257,
+            "hogwarts": 1.0161290322580645,
+            "letter": 1.0096774193548388,
+            "harry": 1.0451612903225806,
+            "lord": 1.0096774193548388,
+            "book": 1.0161290322580645
+        },
+        "message": "success"
+    },
+    "n2.txt": {
+        "code": 0,
+        "sentiment": 0.9722347855567932,
+        "title": "Colombia landslides: Over 200 die in Putumayo floods\n",
+        "abstract": "Hours of heavy rains overnight caused rivers to burst their banks, flooding homes with mud in Putumayo province. President Juan Manuel Santos, who travelled to the area, said troops had been deployed as part of a national emergency response. \nIn neighbouring Peru, more than 90 people have died since the start of the year because of unusually heavy rainfall, which also caused landslides and flash floods.\n Jose Antonio Castro, mayor of the provincial capital Mocoa, told Caracol radio that the town was \"totally isolated\", without electricity and water. \"The mud is up to the roof,\" he told Caracol radio. ",
+        "time": "2017-04-01\n",
+        "keywords": {
+            "heavy": 1.0124653739612188,
+            "neighbourhoods": 1.0083102493074791,
+            "emergency": 1.0083102493074791,
+            "caused": 1.0124653739612188,
+            "national": 1.0083102493074791,
+            "rivers": 1.0083102493074791,
+            "landslides": 1.0124653739612188,
+            "caracol": 1.0083102493074791,
+            "river": 1.0083102493074791,
+            "told": 1.020775623268698
+        },
+        "message": "success"
+    }
+}
