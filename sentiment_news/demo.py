@@ -34,9 +34,9 @@ def singleTxt(txtname):
         code=1
         message="wrong format"
     key2=keywords(text)
-    pprint(key2)
+    # pprint(key2)
     summaries=Summarize(title, text)
-    pprint(summaries)
+    # pprint(summaries)
     abstract=''
     for summary in summaries:
         abstract=abstract+summary+" "
@@ -67,7 +67,6 @@ def singleTxt(txtname):
         'sentiment':sentiment
     }
     return data
-
 
 
 path = sys.argv[1] #文件夹目录
