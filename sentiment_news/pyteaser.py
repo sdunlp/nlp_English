@@ -166,7 +166,7 @@ def keywords5(text):
     for k in keywords:
         word={
             "word":k,
-            "drequency":keywords[k]
+            "frequency":keywords[k]*1.0/numWords
         }
         result.append(word)
         # articleScore = keywords[k]*1.0 / numWords
