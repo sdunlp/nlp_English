@@ -1,5 +1,5 @@
 # -*- encoding:utf-8 -*-
-from pyteaser import  Summarize,keywords
+from pyteaser import  Summarize,keywords, keywords5
 from pprint import pprint
 import json
 from aylienapiclient import textapi
@@ -31,7 +31,7 @@ def singleTxt(txtname):
         code=1
         message="wrong format"
     print(text)
-    key2=keywords(text)
+    key2=keywords5(text)
     pprint(key2)
     summaries=Summarize(title, text)
     pprint(summaries)
@@ -49,8 +49,8 @@ def singleTxt(txtname):
     data={
         'code':code,
         'message':message,
-        'title':title,
-        'time':time,
+        'title':title.strip('\n'),
+        'time':time.strip('\n'),
         'abstract':abstract,
         'keywords':key2,
         'sentiment':sentiment
